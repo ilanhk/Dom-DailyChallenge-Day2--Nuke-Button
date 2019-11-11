@@ -1,0 +1,47 @@
+
+body{
+text-align: center;
+padding-top: 10%;
+background-image: url("https://cdn1.vectorstock.com/i/1000x1000/18/30/abstract-night-world-map-vector-22491830.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
+
+h1{
+color: #b5c2e5;
+font-family: 'Anton', sans-serif;
+}
+
+div{
+  align-self: center;
+}
+
+button{
+  color: white;
+  font-size: 40px;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 3px 3px 10px black;
+  /* padding: 80px; */
+
+
+}
+
+button:active {
+  box-shadow: 1px 1px 3px black;
+}
+
+
+#trump{
+  height:250px;
+  width: 250px;
+}
+
+#kim{
+  height:250px;
+  width: 250px;
+}
